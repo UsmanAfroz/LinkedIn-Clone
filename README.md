@@ -32,8 +32,13 @@ Firebase: Firebase is utilized for user authentication and real-time database up
 Getting Started
 
 •	To run this project locally, follow these straightforward steps:
+
 •	Clone this repository to your local machine using git clone.
+
 •	Navigate to the project directory using your command line.
+
 •	Install project dependencies with npm install.
+
 •	Configure Firebase by adding your Firebase configuration details to src/firebase.js.
+
 •	Start the development server with npm start.
